@@ -1,0 +1,1 @@
+setInterval(()=>document.querySelector('.stars').style.opacity=0.2+Math.random()*0.2,1200);
